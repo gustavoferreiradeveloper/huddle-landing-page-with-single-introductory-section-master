@@ -109,7 +109,7 @@ input:hover{
     color: #9eb1ff; 
 }
 
-@media (max-width: 425px){
+@media (max-width: 450px){
 
     body{
         background-image: url(images/bg-mobile.svg);
