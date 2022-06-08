@@ -83,6 +83,10 @@ input:hover{
     margin-right: 50px;
 }
 
+.network h2{
+    display: none;
+}
+
 .network svg{
     width: 30px;
     height: 30px;
